@@ -94,7 +94,6 @@ def main():
     nums1 = [2, 7, 11, 15]
     target1 = -5
     print(twoSum(nums1, target1))
-    # Seu código principal aqui
 
 if __name__ == "__main__":
     main()
